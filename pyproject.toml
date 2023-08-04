@@ -1,0 +1,19 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "www_juu7g"
+version = "1.0.0"
+authors = [	{ name="juu7g" },]
+description = "www utility"
+license = {text = "MIT License"}
+requires-python = ">=3.8.5"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+	]
+dependencies = [
+	"requests", "beautifulsoup4"
+	]
