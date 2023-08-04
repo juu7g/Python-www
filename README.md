@@ -51,7 +51,7 @@ Web操作ライブラリ
 
 ## プログラムの説明サイト
 
-- [gTTSとmpg123で作るテキスト読み上げアプリ【Python】 - プログラムでおかえしできるかな](https://juu7g.hatenablog.com/entry/Python/text-to-speech/speech-text)  
+- [gTTSとmpg123で作るテキスト読み上げアプリ【Python】 - プログラムでおかえしできるかな](https://juu7g.hatenablog.com/entry/Python/text-to-speech/speech-text#wwwライブラリについて)  
 
 
 ## 作者 Authors
